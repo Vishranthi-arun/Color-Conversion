@@ -51,16 +51,19 @@ Anaconda - Python 3.7
 ![2](https://user-images.githubusercontent.com/93427278/228274281-0d9ef1eb-e4b7-49d1-b902-572c108e62a0.png)
 
 <br>
+
 ## RGB to HSV
 ![3](https://user-images.githubusercontent.com/93427278/228274413-09b7963e-4934-47fa-bd9d-2bb9ef90bf1f.png)
-
 <br>
+
 ## BGR to GRAY
 ![4](https://user-images.githubusercontent.com/93427278/228274519-22d62756-0584-43a6-917c-bbc549337f74.png)
 
 <br>
+
 ## RGB to GRAY
 ![5](https://user-images.githubusercontent.com/93427278/228274674-a70eb837-6ad8-4217-825f-218adc7d685d.png)
+<br>
 
 ### ii) HSV to RGB and BGR
 ## HSV to RGB
