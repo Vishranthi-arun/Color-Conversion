@@ -61,9 +61,10 @@ Anaconda - Python 3.7
 ### ii) HSV to RGB and BGR
 ## HSV to RGB
 ![Screenshot (28)](https://user-images.githubusercontent.com/93427278/228242364-97db1119-29bc-4b11-8127-fc38584334c3.png)
-### HSV to BGR
+
 <br>
-![Screenshot (29)](https://user-images.githubusercontent.com/93427278/228242409-34cade70-c8ad-425a-8787-099b7faecdd8.png)
+### HSV to BGR
+![Screenshot (29)](https://user-images.githubusercontent.com/93427278/228243710-4c754853-80ed-4258-9520-a76110a8a215.png)
 
 <br>
 
