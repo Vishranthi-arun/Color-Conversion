@@ -48,16 +48,20 @@ Anaconda - Python 3.7
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 ## BGR to HSV
-![Screenshot (23)](https://user-images.githubusercontent.com/93427278/228240421-3190848e-17a9-46c1-8f96-1a0bafc0bcf8.png)
+![2](https://user-images.githubusercontent.com/93427278/228274281-0d9ef1eb-e4b7-49d1-b902-572c108e62a0.png)
+
 <br>
 ## RGB to HSV
-![Screenshot (24)](https://user-images.githubusercontent.com/93427278/228240294-f3c27cbf-99c2-4c74-ab99-fa06fc81348d.png)
+![3](https://user-images.githubusercontent.com/93427278/228274413-09b7963e-4934-47fa-bd9d-2bb9ef90bf1f.png)
+
 <br>
 ## BGR to GRAY
-![Screenshot (26)](https://user-images.githubusercontent.com/93427278/228240533-62942ad3-566d-43c3-af57-057d4aef12c6.png)
+![4](https://user-images.githubusercontent.com/93427278/228274519-22d62756-0584-43a6-917c-bbc549337f74.png)
+
 <br>
 ## RGB to GRAY
-![Screenshot (25)](https://user-images.githubusercontent.com/93427278/228240482-4bed747c-abb4-4cc1-b1d2-d3869babb1fc.png)
+![5](https://user-images.githubusercontent.com/93427278/228274674-a70eb837-6ad8-4217-825f-218adc7d685d.png)
+
 ### ii) HSV to RGB and BGR
 ## HSV to RGB
 ![Screenshot (32)](https://user-images.githubusercontent.com/93427278/228271350-52a6e5c8-e6a2-4e79-872b-093ceb613513.png)
