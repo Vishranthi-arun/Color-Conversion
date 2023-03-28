@@ -60,29 +60,32 @@ Anaconda - Python 3.7
 ![Screenshot (25)](https://user-images.githubusercontent.com/93427278/228240482-4bed747c-abb4-4cc1-b1d2-d3869babb1fc.png)
 ### ii) HSV to RGB and BGR
 ## HSV to RGB
-![Screenshot (28)](https://user-images.githubusercontent.com/93427278/228242364-97db1119-29bc-4b11-8127-fc38584334c3.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/93427278/228271350-52a6e5c8-e6a2-4e79-872b-093ceb613513.png)
+
 <br>
 
 ## HSV to BGR
-![Screenshot (29)](https://user-images.githubusercontent.com/93427278/228243710-4c754853-80ed-4258-9520-a76110a8a215.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/93427278/228271405-7cefbb7e-383b-4ef2-89cb-26a443b76fba.png)
 
 <br>
 
 ### iii) RGB and BGR to YCrCb
+## RGB to YCrCb
+![Screenshot (34)](https://user-images.githubusercontent.com/93427278/228271756-d0ec800e-7354-487f-a5cd-b521695e975c.png)
 
 <br>
+## BGR to YCrCb
+![Screenshot (35)](https://user-images.githubusercontent.com/93427278/228271843-6b7c5420-b2bb-486c-8692-6a8b2da5d569.png)
 
 <br>
 
 ### iv) Split and merge RGB Image
-
-<br>
+![Screenshot (36)](https://user-images.githubusercontent.com/93427278/228271989-1b45f0dc-9a5e-46bb-9ea3-dbcabc6a8a73.png)
 
 <br>
 
 ### v) Split and merge HSV Image
-
-<br>
+![Screenshot (37)](https://user-images.githubusercontent.com/93427278/228272235-7d3c299b-1be5-4eab-b58b-2726a198644b.png)
 
 <br>
 
